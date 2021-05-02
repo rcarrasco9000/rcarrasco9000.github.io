@@ -1,4 +1,4 @@
-## Welcome to EmcySoft Inc.
+## Welcome to Cubibuild Inc.
 You can use the [editor on GitHub](https://github.com/rcarrasco9000/rcarrasco9000.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# EmcySoft Inc.
+# Cubibuild Inc.
 ## Header 2
 ### Header 3
 
